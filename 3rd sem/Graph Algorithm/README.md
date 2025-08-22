@@ -15,7 +15,7 @@ This project addresses the fundamental problem of designing and optimizing utili
 
 ## Team Members
 
-* Amithi Shangari
+* Amithi Shangari [https://github.com/Ami202512]
 * Madhav Basur
 * Netan Reddy
 
