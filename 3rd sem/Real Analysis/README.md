@@ -43,14 +43,14 @@ to efficient and effective search results.
 
 ---
 
-## Outcomes & Learnings *(Optional)*
+## Outcomes & Learnings 
 
 * A key finding is that while traditional metric spaces provide a robust framework for search, their effectiveness diminishes in high-dimensional data due to the Curse of Dimensionality.
 * This necessitates the use of Approximate Nearest Neighbor (ANN) search and specialized techniques like dimensionality reduction to maintain both speed and relevance in modern search engines.
 
 ---
 
-## References *(Optional)*
+## References 
 
 * https://docs.oracle.com/en/database/oracle/oracle-database/23/vecse/perform-exact-similarity-search.html
 * https://en.wikipedia.org/wiki/Controlled_vocabulary
