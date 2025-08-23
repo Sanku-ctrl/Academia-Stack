@@ -39,7 +39,7 @@ This project demonstrates the relevance of Functional Analysis in a variety of a
 
 ---
 
-## Outcomes & Learnings *(Optional)*
+## Outcomes & Learnings 
 
 * Successfully bridged the gap between abstract mathematical theory and practical applications, demonstrating how concepts like convexity and duality are the foundational backbone for solving real-world optimization problems.
 * A key outcome was the derivation of an explicit, analytic solution for an infinite-dimensional optimization problem on the Hilbert space ℓ², showcasing the power of the KKT framework beyond standard finite-dimensional cases.
