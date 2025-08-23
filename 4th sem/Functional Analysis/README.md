@@ -1,8 +1,8 @@
 # Project: Applications of Functional Analysis in Economics, Finance, and Machine Learning
 
-**Course:** *MA2212: Functional Analysis
-**Institution:** Mahindra University
-**Award:** Best Project, CAM Symposium 2025
+**Course:** *MA2212: Functional Analysis /
+**Institution:** Mahindra University /
+**Award:** Best Project, CAM Symposium 2025 /
 
 **[>> View the Full Project Report (PDF) <<](report.pdf)**
 

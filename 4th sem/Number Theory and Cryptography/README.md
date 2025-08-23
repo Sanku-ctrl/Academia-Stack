@@ -1,7 +1,7 @@
 # Project: Post-Quantum Cryptography
 
-**Course:** MA2209: Number Theory and Cryptography
-**Institution:** Mahindra University
+**Course:** MA2209: Number Theory and Cryptography /
+**Institution:** Mahindra University /
 
 **[>> View the Full Project Report (PDF) <<](report.pdf)**
 

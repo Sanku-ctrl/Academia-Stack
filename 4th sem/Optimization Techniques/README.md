@@ -1,7 +1,7 @@
 # Project: Inventory Management for a Retail Store
 
-**Course:** MA2210: Optimization Techniques
-**Institution:** Mahindra University
+**Course:** MA2210: Optimization Techniques /
+**Institution:** Mahindra University /
 
 **[>> View the Full Project Report (PDF) <<](report.pdf)**
 
