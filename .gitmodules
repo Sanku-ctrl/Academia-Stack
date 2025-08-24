@@ -1,0 +1,9 @@
+[submodule "3rd sem/Algebra"]
+	path = 3rd sem/Algebra
+	url = https://github.com/Sanku-ctrl/Algebra
+[submodule "3rd sem/Graph-Algo"]
+	path = 3rd sem/Graph-Algo
+	url = https://github.com/Sanku-ctrl/Graph-Algo
+[submodule "3rd sem/Real-Analysis"]
+	path = 3rd sem/Real-Analysis
+	url = https://github.com/Sanku-ctrl/Real-Analysis
