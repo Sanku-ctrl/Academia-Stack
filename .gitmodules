@@ -7,3 +7,15 @@
 [submodule "3rd sem/Real-Analysis"]
 	path = 3rd sem/Real-Analysis
 	url = https://github.com/Sanku-ctrl/Real-Analysis
+[submodule "4th sem/Opti-Tech"]
+	path = 4th sem/Opti-Tech
+	url = https://github.com/Sanku-ctrl/Opti-Tech
+[submodule "4th sem/Number-Theory-Crypto"]
+	path = 4th sem/Number-Theory-Crypto
+	url = https://github.com/Sanku-ctrl/Number-Theory-Crypto
+[submodule "4th sem/Stochastic-Process"]
+	path = 4th sem/Stochastic-Process
+	url = https://github.com/Sanku-ctrl/Stochastic-Process
+[submodule "4th sem/Functional-Analysis"]
+	path = 4th sem/Functional-Analysis
+	url = https://github.com/Sanku-ctrl/Functional-Analysis
